@@ -4,7 +4,7 @@
 
 # Use
 
-This is an applicatioon for a chatbnot that will react to your alternate histories. It will take a wide range of tempplatexs for AHs, and it can even suggest continuations if you include the letters "wip" in your request
+This is an applicatioon for a chatbnot that will react to your alternate histories. It will take a wide range of AHs, and it can even suggest continuations if you include the letters "wip" in your request
 
 # Run and deploy your AI Studio app
 
